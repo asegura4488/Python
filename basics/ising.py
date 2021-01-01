@@ -9,8 +9,8 @@ import math
 import matplotlib.pyplot as plt
 #Creacion de la matriz spin y parametro beta
 beta=1
-n=3
-m=3
+n=20
+m=20
 matrix=np.zeros((n,m))
 spin=[-1,1]
 for i in range(n):
